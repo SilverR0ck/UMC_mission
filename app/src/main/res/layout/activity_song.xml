@@ -161,7 +161,6 @@
         android:paddingStart="0dp"
         android:paddingEnd="0dp"
         android:progress="0"
-
         android:thumb="@color/transparent"
         android:max="100000"
         app:layout_constraintEnd_toEndOf="parent"
